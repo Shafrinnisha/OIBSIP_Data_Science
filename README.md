@@ -1,6 +1,6 @@
-# My Projects at Oasis InfoTech
+# My Projects at Oasis Infobyte
 
-Welcome to my GitHub repository! Here you'll find a collection of my projects completed during my tenure at Oasis InfoTech. These projects span various domains of machine learning and data science, showcasing a wide array of skills and techniques.
+Welcome to my GitHub repository! Here you'll find a collection of my projects completed during my tenure at Oasis Infobyte. These projects span various domains of machine learning and data science, showcasing a wide array of skills and techniques.
 
 ## Projects
 
@@ -29,9 +29,9 @@ Predicting sales trends to help businesses make data-driven decisions.
 
 - **Technologies Used:** Python, Scikit-Learn, Pandas, NumPy
 
-## About Oasis InfoTech
+## About Oasis Infobyte
 
-Learn more about Oasis InfoTech: [www.oasisinfotech.com](#)
+Learn more about Oasis Infobyte: [www.oasisinfotech.com](#)
 
 ## Connect with Me
 
